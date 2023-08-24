@@ -1,0 +1,1 @@
+This software is made available in source code form only for educational and for evaluation purposes. No other use or redistribution is allowed. If you want to use and/or redistribute this software in any other way, please contact us at christian.wuelker@philips.com, elwin.de.weerdt@philips.com and/or mariya.doneva@philips.com for permission or a commercial license.
